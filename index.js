@@ -241,4 +241,4 @@ const list_of_all_countries = [
   { name: "Zimbabw", code: "ZN" },
 ];
 
-module.exports = list_of_all_countries;
+export default list_of_all_countries;
