@@ -47,7 +47,26 @@ Here's a snippet of the dataset:
     {
         "Name": "Japan",
         "Code": "JP"
-    },
-    // Add more countries and codes here
-]"# Country-Codes-Dataset" 
-"# Country-Codes-Dataset" 
+    }
+]
+
+# License
+
+This dataset is provided under the MIT License. You are free to use, modify, and distribute it for both personal and commercial purposes. Attribution is not required but appreciated.
+
+
+# Contributing
+
+If you have additional data to add, corrections to make, or any other improvements, please feel free to open an issue or submit a pull request. Contributions from the community are highly encouraged and appreciated.
+
+# Acknowledgments
+
+The initial dataset was compiled from various open sources, including government publications and online resources.
+Special thanks to the open-source community for providing valuable datasets like this one.
+
+
+# Feedback
+
+If you find any issues with the dataset or have suggestions for improvement, please let us know by opening an issue on this repository.
+
+Thank you for using this dataset, and we hope it proves to be a helpful resource in your projects!
